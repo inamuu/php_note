@@ -6,7 +6,7 @@ if(strpos($var, 'minimum')) {
     print "unmatch\n";
 }
 
-$var2 = 'text minimum';
+$var2 = 'これはXXXXですね';
 if(strpos($var2, 'minimum')) {
     print "match\n";
 } else {
