@@ -8,4 +8,5 @@ echo $var . "\n";
 echo date('Y-m', strtotime($var)) . "\n";
 
 echo date('Y-m-d' . "\n");
+echo date('Y-m-d H:i:s' . "\n");
 ?>
